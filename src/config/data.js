@@ -1,8 +1,8 @@
 export const blogList = [
     {
       id: 1,
-      title: 'jennie',
-      category: 'K-pop',
+      title: 'jennie jennie ',
+      category: 'Star',
       subCategory: ['frontend', 'ui/ux', 'design'],
       description:"Jennie Kim was born as the only child of her parents. Her mother is a CJ & M Director and Shareholder, whilst her father owns a hospital. During her childhood, Jennie moved from her home to live in Auckland, New Zealand, where she spent five years and was a student at ACG Parnell College. During her time abroad, she learned to speak fluent English on top of basic Japanese and fluent Korean Jennie moved to live in Seoul, South Korea and made a successful audition to YG Entertainment in the same year, becoming a YG trainee for six years.During the six years Jennie spent training under the company, in 2012 she featured on labelmate Lee Hi's song Special, as well as made an appearance on Big Bang's G-Dragon's music video That XX. In 2013, she featured on G-Dragon's song Black and GG BE by Big Bang's Seungri present BLACKPINK and solo debut In 2016 she became the main rapper and lead vocalist of the girl group, Blackpink, which debuted on August 8, 2016.In Mid October 2018, an announcement of Jennie's official solo debut was made. In midst of preparation for her debut, it was decided that the track Solo will be first revealed at Black Pink's In Your Area tour in Seoul ahead of release on November 12th",
         authorName: 'AanchalMehra',
@@ -12,7 +12,7 @@ export const blogList = [
     },
     {
       id: 2,
-      title: 'eun woo',
+      title: 'heloob hello',
       category: 'Actor',
       subCategory: ['vacation', 'holidays', 'sight seeing'],
       description:
